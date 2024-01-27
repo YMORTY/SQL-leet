@@ -77,3 +77,4 @@ select *
 from t1 join t2
 on t1.ad_id = t2.ad) a
 order by ctr desc, ad_id
+
